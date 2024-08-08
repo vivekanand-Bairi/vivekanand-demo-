@@ -1,2 +1,2 @@
-# vivekanand-demo-
+# vivekanand-demo
 This is my first git repository.
